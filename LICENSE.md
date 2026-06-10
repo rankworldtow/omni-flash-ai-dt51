@@ -1,4 +1,4 @@
-# 
+# VIP Omni Flash ferramentas. Com grafos de conhecimento e testes automatizados — otimizado para máximo desempenho e eficiência.
 
 
 
